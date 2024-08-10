@@ -1,5 +1,4 @@
 import java.util.LinkedHashSet;
-import java.util.HashSet;
 import java.util.Iterator;
 public class LinkedHashSets{
 public static void main(String[]args){
